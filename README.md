@@ -1,4 +1,4 @@
-# M.capitata_symbionts_glycome
+# M.capitata_symbionts_glycans
 
 Data and code associated with:
 
