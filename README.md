@@ -1,6 +1,6 @@
 # M.capitata_symbionts_glycans
 
-Data and code associated with:
+Data associated with:
 
 ## Heat-induced Stress Modulates Cell Surface Glycans and Membrane Lipids of Coral Symbionts 
 
